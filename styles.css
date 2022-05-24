@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    margin: 0 auto;
+}
+
+body{
+    background-color: aquamarine;
+    text-align: center;
+    margin: 0 auto;
+}
+
+h2{
+    text-align: center;
+    margin: 0 auto;
+}
+fieldset{
+    text-align: center;
+    margin: 0 auto;
+    
+}
+head{
+    text-align: center;
+    margin: 0 auto;
+}
+header, section{
+    width: 960px;
+    margin: 0;
+}
+
+
